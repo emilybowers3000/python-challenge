@@ -1,0 +1,7 @@
+PS C:\Users\emily\OneDrive\Desktop\Starter_Code\python-challenge\PyBank> C:/Users/emily/anaconda3/Scripts/activate
+PS C:\Users\emily\OneDrive\Desktop\Starter_Code\python-challenge\PyBank> conda activate base
+PS C:\Users\emily\OneDrive\Desktop\Starter_Code\python-challenge\PyBank> & C:/Users/emily/anaconda3/python.exe c:/Users/emily/OneDrive/Desktop/Starter_Code/python-challenge/PyBank/main.py
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $22564198

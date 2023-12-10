@@ -1,0 +1,4 @@
+PS C:\Users\emily\OneDrive\Desktop\Starter_Code\python-challenge\PyPoll> & C:/Users/emily/anaconda3/python.exe c:/Users/emily/OneDrive/Desktop/Starter_Code/python-challenge/PyPoll/main.py
+Election Results
+-----------------------
+Total Votes: 369710
